@@ -1,0 +1,5 @@
+name: paper_plugin
+version: '${version}'
+main: dev.evokerking.plugins.paper_plugin.Paper_plugin
+api-version: '1.20'
+load: STARTUP
