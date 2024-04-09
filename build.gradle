@@ -21,7 +21,6 @@ repositories {
 dependencies {
     compileOnly "io.papermc.paper:paper-api:1.20.1-R0.1-SNAPSHOT"
     implementation 'com.samjakob:SpiGUI:1.3.1'
-    compileOnly 'https://github.com/toxicity188/BetterHud'
 }
 
 def targetJavaVersion = 17
